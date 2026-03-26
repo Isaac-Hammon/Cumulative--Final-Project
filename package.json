@@ -1,0 +1,26 @@
+{
+  "name": "cumulative--final-project",
+  "version": "1.0.0",
+  "description": "oatmeal",
+  "keywords": [
+    "Cereal"
+  ],
+  "homepage": "https://github.com/Isaac-Hammon/Cumulative--Final-Project#readme",
+  "bugs": {
+    "url": "https://github.com/Isaac-Hammon/Cumulative--Final-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac-Hammon/Cumulative--Final-Project.git"
+  },
+  "license": "ISC",
+  "author": "Isaac",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
+}
